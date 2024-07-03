@@ -1,0 +1,40 @@
+[
+    {
+        "id": "393225",
+        "image": "/content/data/images/COCO_val2014_000000393225.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nWhat website copyrighted the picture?"
+            },
+            {
+                "role": "assistant",
+                "content": "foodiebakercom"
+            },
+            {
+                "role": "user",
+                "content": "Is this a creamy soup?"
+            },
+            {
+                "role": "assistant",
+                "content": "no"
+            },
+            {
+                "role": "user",
+                "content": "Is this rice noodle soup?"
+            },
+            {
+                "role": "assistant",
+                "content": "yes"
+            },
+            {
+                "role": "user",
+                "content": "What is to the right of the soup?"
+            },
+            {
+                "role": "assistant",
+                "content": "chopsticks"
+            }
+        ]
+    }
+]

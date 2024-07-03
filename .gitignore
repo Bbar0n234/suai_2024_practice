@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints/
+/data/source_data/all_images/
+/data/source_data/v2_mscoco_val2014_annotations.json
+/data/source_data/v2_OpenEnded_mscoco_val2014_questions.json
+.idea/

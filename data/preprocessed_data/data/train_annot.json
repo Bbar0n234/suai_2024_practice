@@ -1,0 +1,138 @@
+[
+    {
+        "id": "131089",
+        "image": "/content/data/images/COCO_val2014_000000131089.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nWhat color is the grass in this picture?"
+            },
+            {
+                "role": "assistant",
+                "content": "green"
+            },
+            {
+                "role": "user",
+                "content": "Did the batter hit the ball?"
+            },
+            {
+                "role": "assistant",
+                "content": "yes"
+            },
+            {
+                "role": "user",
+                "content": "How many are playing ball?"
+            },
+            {
+                "role": "assistant",
+                "content": "1"
+            },
+            {
+                "role": "user",
+                "content": "Is there a chain link fence in the image?"
+            },
+            {
+                "role": "assistant",
+                "content": "no"
+            },
+            {
+                "role": "user",
+                "content": "Is the boy playing baseball?"
+            },
+            {
+                "role": "assistant",
+                "content": "yes"
+            }
+        ]
+    },
+    {
+        "id": "393226",
+        "image": "/content/data/images/COCO_val2014_000000393226.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nWhat is the man doing in the street?"
+            },
+            {
+                "role": "assistant",
+                "content": "walking"
+            },
+            {
+                "role": "user",
+                "content": "How many photo's can you see?"
+            },
+            {
+                "role": "assistant",
+                "content": "1"
+            },
+            {
+                "role": "user",
+                "content": "What does the truck on the left sell?"
+            },
+            {
+                "role": "assistant",
+                "content": "ice cream"
+            }
+        ]
+    },
+    {
+        "id": "262148",
+        "image": "/content/data/images/COCO_val2014_000000262148.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nWhere is he looking?"
+            },
+            {
+                "role": "assistant",
+                "content": "down"
+            },
+            {
+                "role": "user",
+                "content": "What are the people in the background doing?"
+            },
+            {
+                "role": "assistant",
+                "content": "watching"
+            },
+            {
+                "role": "user",
+                "content": "What is he on top of?"
+            },
+            {
+                "role": "assistant",
+                "content": "picnic table"
+            }
+        ]
+    },
+    {
+        "id": "240301",
+        "image": "/content/data/images/COCO_val2014_000000240301.jpg",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\nWhy is there a gap between the roof and wall?"
+            },
+            {
+                "role": "assistant",
+                "content": "yes"
+            },
+            {
+                "role": "user",
+                "content": "Is it daylight in this picture?"
+            },
+            {
+                "role": "assistant",
+                "content": "yes"
+            },
+            {
+                "role": "user",
+                "content": "Why is the cow laying down?"
+            },
+            {
+                "role": "assistant",
+                "content": "tired"
+            }
+        ]
+    }
+]
